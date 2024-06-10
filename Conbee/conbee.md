@@ -2,6 +2,7 @@
 
 ## ERP & 그룹웨어 웹 애플리케이션
 
+로그인 한 사람의 직책에 따라 나오는 화면이 달라진다
 <img src="./image/Slide4.jpg">
 <img src="./image/Slide5.jpg">
 <img src="./image/Slide6.jpg">
