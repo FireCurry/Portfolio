@@ -15,3 +15,8 @@
 
 
 <img src="./gif/example.gif">
+<video src="./video/레시피 수정.mp4"/>
+<video width="320" height="240" controls>
+  <source src="./video/마이페이지.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
