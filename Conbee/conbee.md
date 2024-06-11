@@ -12,7 +12,7 @@
 
 ![재고 흐름](https://github.com/FireCurry/Portfolio/assets/141403823/aed1f2b5-40bb-4a48-9242-5d97012e68b9)
 
-## 🖥️ 세부 기능
+## 🛠️ 세부 기능
 ### 메인 페이지
 - 직책에 따라 메인 페이지에 나타나는 구성과 메뉴가 다릅니다.
 - 출력되는 데이터들은 무한 스크롤로 구현하였습니다.
@@ -73,6 +73,10 @@ https://github.com/FireCurry/Portfolio/assets/141403823/05f61674-e35a-430e-bf10-
 
 
 https://github.com/FireCurry/Portfolio/assets/141403823/da8e0204-7626-4535-953f-65222aed2b57
+
+
+https://github.com/FireCurry/Portfolio/assets/141403823/eab72189-9491-4fe8-9cca-9c52397dc900
+
 
 
 ## 📖참여소감
