@@ -1,5 +1,6 @@
 # 🍴 CookGoldenSpoon
 - 레시피 공유 웹 애플리케이션
+- [상세보기](https://github.com/3MIN1KUK/CookGoldenSpoon)
 
 ## 😄 주요 역할
 - 하나의 레시피에는 다양한 정보들이 담겨있기 때문에 데이터를 가져오는 방법을 중점적으로 설계 및 구현 하였습니다.
