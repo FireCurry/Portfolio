@@ -11,7 +11,7 @@
 <img src="./image/Slide7.jpg">
 <img src="./image/Slide8.jpg">
 <img src="./image/Slide9.jpg">
-
+<img src="./gif/POS.gif"/>
 ## 발주
 <img src="./image/Slide10.jpg">
 <img src="./image/Slide11.jpg">
@@ -24,4 +24,4 @@
 <img src="./image/Slide16.jpg">
 <img src="./image/Slide17.jpg">
 
-<img width="80%" src="./gif/POS.gif"/>
+
