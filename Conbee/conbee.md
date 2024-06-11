@@ -1,5 +1,6 @@
 # 🐝 Conbee
-## ERP & 그룹웨어 웹 애플리케이션
+- ERP & 그룹웨어 웹 애플리케이션
+- [상세보기](https://github.com/Bee-Keepers/conbee)
 
 로그인 한 사람의 직책에 따라 나오는 화면이 달라진다
 
@@ -13,6 +14,7 @@
 
 ## 세부 기능
 ### 메인 페이지
+- 직책에 따라 달라지는 메인 페이지
 <img src="./image/Slide4.jpg"><img src="./image/Slide5.jpg"><img src="./image/Slide6.jpg">
 <video src="https://github.com/FireCurry/Portfolio/assets/141403823/c0697f69-6b63-46a9-9178-7866d8d54dc7"/>
 
