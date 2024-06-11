@@ -10,22 +10,39 @@
 <img src="./image/Slide7.jpg">
 <img src="./image/Slide8.jpg">
 <img src="./image/Slide9.jpg">
-<video src="https://github.com/FireCurry/Portfolio/assets/141403823/bbef5d62-f202-483a-b593-3186262936d2"/>
+
+
+https://github.com/FireCurry/Portfolio/assets/141403823/386cc156-bd0c-44c4-a9e5-af06d8a87941
+
 
 ## 발주
 <img src="./image/Slide10.jpg">
 <img src="./image/Slide11.jpg">
-<video src="https://github.com/FireCurry/Portfolio/assets/141403823/97884baa-a3d4-4660-a1c6-c8e1327c3bf7"/>
+
+
+https://github.com/FireCurry/Portfolio/assets/141403823/157a8e4b-265c-49fc-a207-52f762c00844
+
 
 ## 재고/매출
 <img src="./image/Slide12.jpg">
 <img src="./image/Slide13.jpg">
-<video src="https://github.com/FireCurry/Portfolio/assets/141403823/14714728-19ad-41e9-b4b7-1a8db498da77"/>
+
+
+https://github.com/FireCurry/Portfolio/assets/141403823/1ea0de2d-28c1-437a-afac-9fba8eba902c
+
 
 ## 본사 기능
 <img src="./image/Slide14.jpg">
 <img src="./image/Slide15.jpg">
 <img src="./image/Slide16.jpg">
 <img src="./image/Slide17.jpg">
+
+
+https://github.com/FireCurry/Portfolio/assets/141403823/05f61674-e35a-430e-bf10-bb90ec4184c8
+
+
+
+https://github.com/FireCurry/Portfolio/assets/141403823/da8e0204-7626-4535-953f-65222aed2b57
+
 
 
