@@ -3,19 +3,18 @@
 
 로그인 한 사람의 직책에 따라 나오는 화면이 달라진다
 ## 메인 페이지
-<img src="./image/Slide4.jpg">
-<img src="./image/Slide5.jpg">
-<img src="./image/Slide6.jpg">
+<img src="./image/Slide4.jpg"><img src="./image/Slide5.jpg"><img src="./image/Slide6.jpg">
 
 ## POS
 <img src="./image/Slide7.jpg">
 <img src="./image/Slide8.jpg">
 <img src="./image/Slide9.jpg">
-<img src="./gif/POS.gif"/>
+
 ## 발주
 <img src="./image/Slide10.jpg">
 <img src="./image/Slide11.jpg">
 <img src="./image/Slide14.jpg">
+
 
 ## 재고/매출
 <img src="./image/Slide12.jpg">
