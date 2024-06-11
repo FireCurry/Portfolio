@@ -22,10 +22,6 @@
 <img src="./image/Slide13.jpg">
 <video src="https://github.com/FireCurry/Portfolio/assets/141403823/14714728-19ad-41e9-b4b7-1a8db498da77"/>
 
-
-
-
-
 ## 본사 기능
 <img src="./image/Slide14.jpg">
 <img src="./image/Slide15.jpg">
